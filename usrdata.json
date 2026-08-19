@@ -46,5 +46,11 @@
         "key": "1111",
         "expirydate": "03-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c1627a7713c656e4",
+        "key": "kuchv",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
     }
 ]
