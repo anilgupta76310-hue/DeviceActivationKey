@@ -50,13 +50,13 @@
     {
         "device_id": "9b4bec0d9e6351e7",
         "key": "2Mnt",
-        "expirydate": "20-08-2026",
+        "expirydate": "20-08-2020",
         "Allowoffline": false
     },
     {
         "device_id": "16b3f6aa19368c2a",
         "key": "5Mnt",
-        "expirydate": "20-08-2026",
+        "expirydate": "20-08-2020",
         "Allowoffline": false
     }
 ]
