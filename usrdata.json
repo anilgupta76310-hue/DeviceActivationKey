@@ -58,5 +58,12 @@
         "key": "5iMnt",
         "expirydate": "20-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "508b00dcbbd895cc",
+        "key": "5iMnt",
+        "expirydate": "20-12-2026",
+        "Allowoffline": false
     }
+]
 ]
