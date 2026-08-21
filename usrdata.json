@@ -64,5 +64,11 @@
         "key": "nt",
         "expirydate": "20-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c1627a7713c656e4",
+        "key": "nit",
+        "expirydate": "20-12-2026",
+        "Allowoffline": false
     }
 ]
